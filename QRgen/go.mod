@@ -1,4 +1,4 @@
-module jimmy/qrcode
+module doubleriichi/qrcode
 
 go 1.21.6
 
