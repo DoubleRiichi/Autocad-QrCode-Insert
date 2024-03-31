@@ -5,8 +5,8 @@
 (load (strcat APP "xrefs.lsp"))
 
 
-(setq QRGEN-PATH "C:/Users/9822594H/Desktop/autocad-QRcode/exe/qrgen.exe"
-      OUTPUT-PATH "C:/Users/9822594H/Desktop/autocad-QRcode/"
+(setq QRGEN-PATH "/exe/qrgen.exe"
+      OUTPUT-PATH "Desktop/autocad-QRcode/"
       DEFAULT-SIZE "256"
       REF-NAME "qr-DATE"
       XRECORD-NAME "qrgen-pos")
